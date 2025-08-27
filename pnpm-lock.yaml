@@ -1,5 +1,5 @@
 lockfileVersion: '9.0'
-
+#security scan
 settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
