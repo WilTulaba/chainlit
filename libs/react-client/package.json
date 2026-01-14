@@ -57,7 +57,7 @@
     "socket.io-client": "^4.7.2",
     "sonner": "^1.7.1",
     "swr": "^2.2.2",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.1"
   },
   "pnpm": {
     "overrides": {
